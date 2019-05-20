@@ -1,0 +1,23 @@
+{
+  "name": "testpractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patpalmerston/jsTesting.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patpalmerston/jsTesting/issues"
+  },
+  "homepage": "https://github.com/patpalmerston/jsTesting#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
