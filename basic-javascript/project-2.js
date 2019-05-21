@@ -1,0 +1,1 @@
+const funcs = require('./project-2.spec');
